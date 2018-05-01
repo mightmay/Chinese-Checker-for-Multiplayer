@@ -15,12 +15,41 @@ How to play:
 4. Click on the spot you want to move the marble to.
 4. After finish game close the game and open again so you can play again.
 
+
 You can also play this game online right now at this website:
+
 https://chinesecheckermultiplayer.azurewebsites.net/Chinese%20Checker%20Game%20Multiplayer.html
 
 
 
-For single player, if you want to play by yourself with robot. 
+CLICK HERE TO PLAY NOW ( IF YOU DONT WANT TO DOWNLOAD)
+
+
+
+
+
+For single player, if you want to play by yourself with robot.
+
 Download and install this game instead:
+
+https://chinesecheckermultiplayer.azurewebsites.net/Chinese%20Cheker%20Single%20Player.exe
+
+
+
+or this game:
+
 https://drive.google.com/file/d/1HtIHgAwQEU4xMeoMqQv3WfIj93ExYpg8/view?usp=sharing
 
+
+
+OR you can play online now, if you don't want to download.
+
+Play online HERE:
+
+https://chinesecheckermultiplayer.azurewebsites.net/Chinese%20Cheker%20Single%20Player.html
+
+
+
+
+
+(To play you will need to have Adobe Flash Player installed, if you don't have Adobe Flash, you can download Adobe Flash from this link: https://get.adobe.com/flashplayer/)
