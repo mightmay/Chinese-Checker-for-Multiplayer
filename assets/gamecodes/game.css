@@ -115,6 +115,6 @@ body {
 }
 
 .checker_W {
-  background-color: #E6E6E6;
-  background: -webkit-radial-gradient(35% 25%, circle, #FFFFFF 1px, #F0F0F0 3%, #E6E6E6 60%, #F0F0F0 100%); 
+  background-color: #ff00ff;
+  background: -webkit-radial-gradient(35% 25%, circle, #ff00ff 1px, #ff00ff 3%, #ff00ff 60%, #ff00ff 100%); 
 }
